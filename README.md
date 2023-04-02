@@ -1,0 +1,2 @@
+**Campaign Cost Prediction Model**
+This repository contains a campaign cost prediction model designed using Food Mart (CFM) data gotten from kaggle. The significance of such model is to help convenience stores predict the cost of marketing campaigns. With this model, convenience store owners can more accurately plan their marketing budgets, optimize their marketing spending, and make better decisions about which campaigns to pursue.
